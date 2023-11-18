@@ -6,7 +6,7 @@ clear;
 close all;
 
 %%
-FreqRanges = [20, 15, 10, 5, 2, 1]*1e9;
+FreqRanges = [15, 20]*1e9;
 
 %% Antenna Properties 
 
